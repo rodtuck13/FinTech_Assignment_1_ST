@@ -138,6 +138,6 @@ Crunchbase Earnin profile https://www.crunchbase.com/organization/activehours
 
 Crunchbase DailyPay profile https://www.crunchbase.com/organization/dailypay-inc
 
-Yahoo Financial McDonalds Market Valuehttps://finance.yahoo.com/quote/MCD/
+Yahoo Financial McDonalds Market Value https://finance.yahoo.com/quote/MCD/
 
 
